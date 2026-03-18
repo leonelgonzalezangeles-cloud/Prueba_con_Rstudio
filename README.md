@@ -22,7 +22,7 @@ tidyr
 modeest
 ```
 
-_Dentro del archivo "Prueba_V2.R" ya viene el siguiente codigo para incluir las librerias necesarias. _
+_Dentro del archivo "Prueba_actualizado.R" ya viene el siguiente codigo para incluir las librerias necesarias. _
 ```
 library(readxl)     # Esta libreria permite abrir un archivo .xlsx
 library(writexl)    # Permite generear un archivo .xlsx
@@ -83,7 +83,7 @@ _Al final se genera un documento "Base_Limpia.xlsx" con los datos limpios y dos 
 
 _En la hoja "Datos_limpios" se encuentran los registros unificados de los usuarios y sus respectivas asistencias. Por otro lado, en la hoja "Bajo desempeño" solo estan los registros de los usuarios con el menor desempeño_ 
 
-_El documeto de salida se guardará en la carpeta de ubicacion del archivo "Prueba_V2.R"_
+_El documeto de salida se guardará en la carpeta de ubicacion del archivo "Prueba_actualizado.R"_
 
 
 
